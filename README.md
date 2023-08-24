@@ -13,7 +13,8 @@ Nevermind that.
 
 Here is a basic start for a simple online form option with a save and continue functionality.
 
-This method generates a token, sends token url to user email with saved form data.  User can go back to form url and continue form with data.
-Currently the submit button is kind of broken... 
-it's getting late... 
+This method generates a token, sends token url to user email with saved form data. <br>
+User can go back to form url and continue form with data. <br>
+Currently the submit button is kind of broken... <br>
+it's getting late...  <br>
 This could also include an sql option at some point but simplicity seems to maybe do the trick.
