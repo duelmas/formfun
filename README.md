@@ -21,6 +21,8 @@ This could also include an sql option at some point but simplicity seems to mayb
 
 Or AI just do what AI does.... 
 
+prompt= "provide full working complete code for an online form with a save and continue button that sends an email to the user with a generated token url they can return to form with information and a submit button that sends to email@sample.com. Code is completely working PHP, HTML, CSS and Javascript. Full code, not missing anything or leaving anything out with notes."
+
 LLM served by Perplexity Labs / 
 CodeLlama-70b
 
