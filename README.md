@@ -93,6 +93,8 @@ This creates a simple form with two inputs (name and email) along with a Save & 
 
     Now create another file called processData.php, which will handle processing the submitted form data and sending emails. Here's what goes inside:
 
+html
+
 php
 <?php
 $errors = array();
