@@ -12,13 +12,12 @@ They seem to lack being able to provide full working code examples and often lea
 Nevermind that.
 
 Here is a basic start for a simple online form option with a save and continue functionality.
-
+<p>
 This method generates a token, sends token url to user email with saved form data. <br>
 User can go back to form url and continue form with data. <br>
-Currently the submit button is kind of broken... <br>
-it's getting late...  <br>
+Currently is kind of broken.... <br>
 This could also include an sql option at some point but simplicity seems to maybe do the trick.
-
+</p>
 <h2>Or AI just do what AI does.... </h2>
 
 prompt= "provide full working complete code for an online form with a save and continue button that sends an email to the user with a generated token url they can return to form with information and a submit button that sends to email@sample.com. Code is completely working PHP, HTML, CSS and Javascript. Full code, not missing anything or leaving anything out with notes."
