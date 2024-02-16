@@ -93,7 +93,7 @@ This creates a simple form with two inputs (name and email) along with a Save & 
 
     Now create another file called processData.php, which will handle processing the submitted form data and sending emails. Here's what goes inside:
 
-html
+''' 
 
 php
 <?php
@@ -115,7 +115,10 @@ if(count($errors)>0){
 }
 exit;
 
+
     Finally, we need one more file called generateTokenUrl.php, which handles generating the token URLs when requested by clicking on the "Resume..." link. Here's its contents:
+
+'''
 
 php
 <?php
